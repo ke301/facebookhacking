@@ -1,7 +1,6 @@
-##Secure Software Engineering - Week 7
-## WordPress Hacking Report
+## Secure Software Engineering: Week 7 - WordPress Hacking Report
+## Exploits
 
-##Exploits
 1. Enumerating users and brute forcing the password with wpscan
 For this attack, I was able to enumerate users by typing:
 wpscan –-url http://wpdistillery.vm –-enumerate u
