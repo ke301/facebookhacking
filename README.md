@@ -43,9 +43,12 @@ Reference:  https://klikki.fi/adv/wordpress2.html
 
 ### Exploit 3: Authenticated Shortcode Tags XSS
 
-For this attack on Wordpress version 4.1, I was able to create a malicious post, which has a hyperlink that when hovered over, will trigger an XSS alert. 
+For this attack on Wordpress version 4.1, I was able to create a malicious post, which has a hyperlink that when hovered over, will trigger an XSS alert.
 
-![alt text][logo4]
+Here is a screenshot of the hyperlink after it was posted in on the Wordpress site:
 
-[logo4]: 
+![alt text][logo5]
+
+[logo5]: https://github.com/ke301/facebookhacking/blob/Week-7/nothin.PNG
+
 Reference: https://wpvulndb.com/vulnerabilities/8186
