@@ -49,6 +49,6 @@ Here is a screenshot of the hyperlink after it was posted in on the Wordpress si
 
 ![alt text][logo5]
 
-[logo5]: https://github.com/ke301/facebookhacking/blob/Week-7/nothin.PNG
+[logo5]: https://github.com/ke301/facebookhacking/blob/Week-7/clickme.gif
 
 Reference: https://wpvulndb.com/vulnerabilities/8186
