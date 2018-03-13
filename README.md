@@ -17,5 +17,5 @@ wpscan –-url http://wpdistillery.vm –-word list /root/Desktop/wordlist.txt �
 
 ![alt text][logo]
 
-[logo]: https://github.com/ke301/facebookhacking/blob/Week-7/enumerateusernames.PNG
+[logo]: https://github.com/ke301/facebookhacking/blob/Week-7/bruteforce.PNG
 
