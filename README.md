@@ -4,6 +4,7 @@
 1. Enumerating users and brute forcing the password with wpscan
 
 For this attack, I was able to enumerate users by typing:
+
 wpscan –-url http://wpdistillery.vm –-enumerate u
 
 ![alt text][logo]
