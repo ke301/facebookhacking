@@ -30,13 +30,7 @@ This is showing a photo of the Javascript injected comment with a bunch of A's t
 
 ![alt text][logo3]
 
-[logo3]: https://github.com/ke301/facebookhacking/blob/Week-7/aaaa1.PNG
-
-This is a photo showing the resulting XSS as a result of it being viewed:
-
-![alt text][logo4]
-
-[logo4]: https://github.com/ke301/facebookhacking/blob/Week-7/aaaa2.PNG
+[logo3]: https://github.com/ke301/facebookhacking/blob/Week-7/ahh1.PNG
 
 Reference:  https://klikki.fi/adv/wordpress2.html
 
