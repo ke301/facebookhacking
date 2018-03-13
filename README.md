@@ -36,4 +36,4 @@ This is a photo showing the resulting XSS as a result of it being viewed:
 
 ![alt text][logo4]
 
-[logo4] https://github.com/ke301/facebookhacking/blob/Week-7/aaaa2.PNG
+[logo4]: https://github.com/ke301/facebookhacking/blob/Week-7/aaaa2.PNG
