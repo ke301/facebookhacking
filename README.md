@@ -22,7 +22,7 @@ Reference: https://www.drchaos.com/hacking-wordpress-with-wpscan/
 
 
 
-### Exploit 2: Stored XSS
+Exploit 2: Stored XSS
 
 For this attack on Wordpress version 4.1, I was able to post a malicious comment that would trigger an XSS alert.
 
