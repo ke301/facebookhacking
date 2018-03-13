@@ -2,7 +2,8 @@
 ## WordPress Hacking Report
 
 1. Enumerating users and brute forcing the password with wpscan
-For this attack, I was able to enumerate users by typing the command:
-![alt text][logo]
+For this attack, I was able to enumerate users by typing:
+wpscan –-url http://wpdistillery.vm –-enumerate u
+[logo]
 
 [logo]: https://github.com/ke301/facebookhacking/blob/Week-7/enumerateusernames.PNG
