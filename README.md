@@ -27,4 +27,5 @@ Exploit 2: Stored XSS
 For this attack on Wordpress version 4.1, I was able to post a malicious comment that would trigger an XSS alert.
 
 ![alt text][logo3]
+
 [logo3]: https://github.com/ke301/facebookhacking/blob/Week-7/aaaa1.PNG
