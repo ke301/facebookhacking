@@ -5,4 +5,4 @@
 For this attack, I was able to enumerate users by typing the command:
 ![alt text][logo]
 
-[logo]: https://
+[logo]: https://github.com/ke301/facebookhacking/blob/Week-7/enumerateusernames.PNG
