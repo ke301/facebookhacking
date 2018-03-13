@@ -39,3 +39,13 @@ This is a photo showing the resulting XSS as a result of it being viewed:
 [logo4]: https://github.com/ke301/facebookhacking/blob/Week-7/aaaa2.PNG
 
 Reference:  https://klikki.fi/adv/wordpress2.html
+
+
+### Exploit 3: Authenticated Shortcode Tags XSS
+
+For this attack on Wordpress version 4.1, I was able to create a malicious post, which has a hyperlink that when hovered over, will trigger an XSS alert. 
+
+![alt text][logo4]
+
+[logo4]: 
+Reference: https://wpvulndb.com/vulnerabilities/8186
