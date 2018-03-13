@@ -18,9 +18,9 @@ wpscan –-url http://wpdistillery.vm –-word list /root/Desktop/wordlist.txt �
 
 [logo2]: https://github.com/ke301/facebookhacking/blob/Week-7/bruteforce.PNG
 
-![alt text][bruteforce]
+![alt text][logo6]
 
-[bruteforce]: https://github.com/ke301/facebookhacking/bruteforce.gif 
+[logo6]: https://github.com/ke301/facebookhacking/blob/Week-7/bruteforce.gif
 
 Reference: https://www.drchaos.com/hacking-wordpress-with-wpscan/
 
