@@ -30,7 +30,7 @@ This is showing a photo of the Javascript injected comment with a bunch of A's t
 
 ![alt text][logo3]
 
-[logo3]: https://github.com/ke301/facebookhacking/blob/Week-7/ahh1.PNG
+[logo3]: https://github.com/ke301/facebookhacking/blob/Week-7/ahh1.gif
 
 Reference:  https://klikki.fi/adv/wordpress2.html
 
