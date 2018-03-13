@@ -24,7 +24,12 @@ Reference: https://www.drchaos.com/hacking-wordpress-with-wpscan/
 
 ### Exploit 2: Stored XSS
 
-For this attack on Wordpress version 4.1, I was able to post a malicious comment that would trigger an XSS alert. The catch is that the comment has to be larger than the MySQL TEXT type size limit, which is 64 kb. This causes it to be truncated when the comment is inserted into the database, creating malformed HTML. That allows for anything to be in the HTML tags. 
+For this attack on Wordpress version 4.1, I was able to post a malicious comment that would trigger an XSS alert. The catch is that the comment has to be larger than the MySQL TEXT type size limit, which is 64 kb. This causes it to be truncated when the comment is inserted into the database, creating malformed HTML. That allows for anything to be in the HTML tags.
+
+This is the script:
+
+<a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
+
 
 This is showing a photo of the Javascript injected comment with a bunch of A's to give it a size over 64 bytes:
 
@@ -37,3 +42,5 @@ This is a photo showing the resulting XSS as a result of it being viewed:
 ![alt text][logo4]
 
 [logo4]: https://github.com/ke301/facebookhacking/blob/Week-7/aaaa2.PNG
+
+Reference:  https://klikki.fi/adv/wordpress2.html
